@@ -1,0 +1,56 @@
+{
+  "best_reaction": 0.2368485927581787,
+  "livery": "Hot pink",
+  "liveries": {
+    "Turbo orange": [
+      "#ff7a1a",
+      "#d65c0e",
+      "#1b1c22",
+      "#16161b"
+    ],
+    "Racing red": [
+      "#ff2d3a",
+      "#c01622",
+      "#1b1c22",
+      "#16161b"
+    ],
+    "Electric blue": [
+      "#2f8bff",
+      "#1a5fd0",
+      "#161a24",
+      "#12151d"
+    ],
+    "Petrol teal": [
+      "#12d3bf",
+      "#0a9a8b",
+      "#1a1f22",
+      "#14181a"
+    ],
+    "Lime green": [
+      "#9be22a",
+      "#6fae14",
+      "#1b1d1a",
+      "#161815"
+    ],
+    "Hot pink": [
+      "#ff4fae",
+      "#d02a86",
+      "#1e1a20",
+      "#18151a"
+    ],
+    "Gold": [
+      "#ffc02e",
+      "#d0911a",
+      "#1d1b17",
+      "#171512"
+    ],
+    "Silver arrow": [
+      "#12d3bf",
+      "#0a9a8b",
+      "#8e939c",
+      "#a5aab2"
+    ]
+  },
+  "fs_team": "Tampere Formula Student",
+  "best_lap": 0.00719904899597168
+}
